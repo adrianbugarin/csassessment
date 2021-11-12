@@ -62,5 +62,5 @@ console.log("insert", resultsInsert.preciseWords);
 console.log("append", resultsAppend.preciseWords);
 
 
-// //the doublerInsert function with .unshift will scale fastest than the rest of the 
-//functions
+// // 
+// //the doublerInsert function with .unshift will scale fastest than the rest of the functions
